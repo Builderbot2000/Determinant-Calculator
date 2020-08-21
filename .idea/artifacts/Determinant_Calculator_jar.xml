@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Determinant Calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Determinant_Calculator_jar</output-path>
+    <root id="archive" name="Determinant Calculator.jar">
+      <element id="module-output" name="Determinant Calculator" />
+    </root>
+  </artifact>
+</component>
